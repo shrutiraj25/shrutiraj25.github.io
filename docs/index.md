@@ -1,4 +1,4 @@
-Hi, I am Shruti, working as a Data & Analytics Consultant in PwC. Currently exploring more on Data Science & AI. 
+Hi, I am Shruti, working as a Data & Analytics Consultant. Currently exploring more on Data Science & AI. 
 
 ## Write-ups
 
